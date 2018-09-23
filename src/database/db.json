@@ -1,0 +1,25 @@
+{
+    "games":[
+        {
+            "id":"0",
+            "titulo":"Resident Evil",
+            "subtitulo":"Outbreak",
+            "lancamento":"",
+            "status":"100%",
+            "capa":"re-outbreak.jpg",
+            "plataforma":"Playstation 2",
+            "responsavel":"Lion"
+        },
+        {
+            "id":"1",
+            "titulo":"Kingdom Hearts",
+            "subtitulo":"RE: Chain of Memories",
+            "lancamento":"",
+            "status":"100%",
+            "capa":"kh-chain.jpg",
+            "plataforma":"Playstation 2",
+            "responsavel":"Lion"
+        }
+    ],
+    "consoles":[{}]
+}
